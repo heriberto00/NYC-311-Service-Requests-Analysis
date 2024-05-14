@@ -1,4 +1,4 @@
 | Column Name             | Description                  | Type   |
 |-------------------------|------------------------------|--------|
 | zip                     | ZIP code                     | Number |
-| median_income_2020      | 2020 Median income household | Number |
+| median_income_2022      | 2022 Median income household | Number |
