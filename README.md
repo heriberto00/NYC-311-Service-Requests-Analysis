@@ -18,6 +18,3 @@ Feature overviews for all datasets are available [here](https://github.com/herib
 
 ### [Baseline Modeling]()
 
-
-### Data Science solution and impact.
-
