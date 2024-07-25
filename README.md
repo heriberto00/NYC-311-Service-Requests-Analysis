@@ -8,7 +8,7 @@ The main dataset I will be using is the ["311 Service Requests from 2010 to Pres
 
 Feature overviews for all datasets are available [here](https://github.com/heriberto00/NYC-311-Service-Requests-Analysis/tree/main/data/datasets).
 
-<> (Will add links here when I divide the notebook into each of the sections. Dictionary of each data set under datasets folder)
+[//]: <> (Will add links here when I divide the notebook into each of the sections. Dictionary of each data set under datasets folder)
 ## Workflow
 
 ### [Data Cleaning]()
