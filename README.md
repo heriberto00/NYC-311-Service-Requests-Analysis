@@ -11,9 +11,9 @@ Feature overviews for all datasets are available [here](https://github.com/herib
 [//]: <> (Will add links here when I divide the notebook into each of the sections. Dictionary of each data set under datasets folder)
 ## Workflow
 
-### [Data Cleaning]()
+### [Data Cleaning](https://github.com/heriberto00/NYC-311-Service-Requests-Analysis/blob/main/data/notebooks/Data%20Cleaning.ipynb)
 
-### [Exploratory Data Analysis (EDA)]()
+### [Exploratory Data Analysis (EDA)](https://github.com/heriberto00/NYC-311-Service-Requests-Analysis/blob/main/data/notebooks/EDA.ipynb)
 
-### [Baseline Modeling]()
+### [Modeling](https://github.com/heriberto00/NYC-311-Service-Requests-Analysis/blob/main/data/notebooks/Modeling.ipynb)
 
